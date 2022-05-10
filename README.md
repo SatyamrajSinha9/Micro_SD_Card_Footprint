@@ -1,1 +1,1 @@
-# Micro SD Crad Footprint library 
+# Micro SD Crad Footprint library for Diptrace
